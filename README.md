@@ -1,4 +1,4 @@
-Intermediate Task-1: ** Credit Card Fraud Detection**
+Intermediate Task-1:  **Credit Card Fraud Detection** 
 
 **Objective of this project**:
 The objective of the Credit Card Fraud Detection project is to develop a robust and accurate machine learning system that can effectively identify and prevent fraudulent credit card transactions. By leveraging advanced algorithms and techniques, the project aims to enhance the security of financial transactions, protect cardholders from unauthorized activities, and minimize financial losses for both individuals and financial institutions.
