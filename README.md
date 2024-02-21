@@ -5,6 +5,11 @@ The objective of the Credit Card Fraud Detection project is to develop a robust 
 
 To do this project we need to use csv file **creditcard.csv**
 
+As the **creditcard.csv** file is very large. It is difficult to upload the file in github.We can download this file from kaggle through this link:
+
+#**Dataset**-https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+
  **Steps to Develop the Project**:
 
 1.**Data Collection**:
